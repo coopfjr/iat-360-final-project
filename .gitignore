@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Custom RAG Project Files
+chroma_db/
+.DS_Store

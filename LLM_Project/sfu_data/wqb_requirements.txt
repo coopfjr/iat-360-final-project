@@ -19,3 +19,6 @@ Additional Breadth (6 units): Two courses (total six units or more) outside the 
 
 Second Degrees: 
 Students admitted to a second degree program are exempted from all breadth requirements, three units of the Q requirements, and the lower division W requirement. They must still complete one upper-division W course in their major and one 3-unit Q course.
+
+External Course Verification:
+SFU offers hundreds of WQB-certified courses across various faculties. If a student asks about a specific non-SIAT elective or external course that is not explicitly detailed in this dataset, explain that while you know the general WQB rules, they should verify whether that specific external course carries a W, Q, or B designation by checking the official SFU WQB Certified Courses database or the current SFU Academic Calendar.

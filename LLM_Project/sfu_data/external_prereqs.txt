@@ -1,0 +1,11 @@
+SFU Non-IAT Prerequisite Courses for SIAT Majors
+
+CMPT 120 (Introduction to Computer Science and Programming I): An introduction to computer science and programming using Python. Covers basic algorithm design, variables, control structures, functions, and data structures. Satisfies Quantitative (Q) requirement and serves as a core prerequisite for IAT 167.
+
+CMPT 125 (Introduction to Computer Science and Programming II): Continuation of CMPT 120 focusing on Object-Oriented Programming (OOP) and algorithms using C/C++. 
+
+MACM 101 (Discrete Mathematics I): Introduces sets, logic, functions, relations, algorithms, recursion, and mathematical logic. Satisfies the Quantitative (Q) requirement and acts as a math prerequisite for IAT 265, IAT 267, and IAT 312.
+
+MATH 130 (Calculus for the Life Sciences / Discrete Math Foundations): Prepares students in foundational mathematical concepts and functions. Satisfies Quantitative (Q) requirement and acts as a math prerequisite for IAT 265, IAT 267, and IAT 312.
+
+MATH 150 / MATH 151 / MATH 154 / MATH 157 (Calculus Options): Standard differential and integral calculus courses. Completing any of these satisfies the Quantitative (Q) requirement and the math requirement for upper-division SIAT technical courses.

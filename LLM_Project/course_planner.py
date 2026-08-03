@@ -50,6 +50,6 @@ qa_chain = create_retrieval_chain(vector_store.as_retriever(search_kwargs={"k": 
 
 # 6. Run the Evaluation Test!
 print("\n--- Model Response ---")
-query = "I want to take IAT 265. I have completed IAT 167 with a C-, but I failed MATH 130. Can I take it?"
+query = "I want to take IAT 265. I have completed IAT 167 with a A, but I failed MATH 130. Can I take it?"
 response = qa_chain.invoke({"input": query})
 print(response['answer'])

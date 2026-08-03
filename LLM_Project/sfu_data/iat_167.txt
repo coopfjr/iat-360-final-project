@@ -1,0 +1,1 @@
+Introduces game genres, structures, and programming methods. Prerequisite: CMPT 120 (or equivalent first year programming course) with a minimum grade of C-.

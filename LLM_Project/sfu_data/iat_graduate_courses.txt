@@ -1,0 +1,13 @@
+SFU SIAT Graduate Course Offerings (800 Level)
+The School of Interactive Arts and Technology offers graduate-level instruction for MA, MSc, and PhD programs.
+
+IAT 803: Science, Technology & Culture. Explores the cultural and social implications of scientific and technological developments.
+IAT 804: Foundations of Research Design for Human-Centred Design. Introduces foundational research methods and methodologies for human-centred design.
+IAT 806: Interdisciplinary Design Approaches to Computing. Investigates how interdisciplinary design practices intersect with computational systems.
+IAT 810: New Media. Explores advanced concepts in new media theory and practice.
+IAT 811: Computational Poetics. An investigation of computation as an expressive medium.
+IAT 812: Cognition, Learning and Educational Technology. Examines theories of cognition and learning as they apply to the design of educational technologies.
+IAT 813: Artificial Intelligence in Arts and Design. Explores the application of AI techniques in creative and design contexts.
+IAT 814: Knowledge, Visualization and Communication. Focuses on advanced techniques for visualizing and communicating complex knowledge.
+IAT 832: Exploring Interactivity. An in-depth exploration of interactive systems and user experiences.
+IAT 842: Theory and Design of Games. Advanced study of game design theories, mechanics, and cultural impact.

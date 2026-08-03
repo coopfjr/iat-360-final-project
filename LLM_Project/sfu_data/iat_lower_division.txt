@@ -1,0 +1,33 @@
+SFU SIAT Lower Division Course Offerings and Prerequisites
+
+IAT 100 (Digital Image Design): Introduces the theory and hands-on practice of art and design in digital media. This course teaches core fundamental principles in 2D visual design, sequential and animation design.
+
+IAT 167 (Digital Games): Introduces game genres, structures, and programming methods basic to developing games. 
+Prerequisite: CMPT 120 (or equivalent first year programming course such as CMPT 102, 125, 126, 128, 130, 135, or 166) with a minimum grade of C-. Students who have obtained credit for, or are currently enrolled in, a CMPT course at the 200-division or higher, or IAT 265 or 267 may not complete this course for credit.
+
+IAT 201 (Human-Computer Interaction and Cognition): Introduces topics in human perception, cognition and embodied action as a foundation of design for human use.
+Prerequisite: Completion of at least one lower division "W" (Writing) course.
+
+IAT 202 (Visual Storytelling for Content Creators): Examines the principles of effective storytelling through visual media, with an emphasis on social media platforms and short-form content. 
+Prerequisite: IAT 100 with a minimum grade of C-.
+
+IAT 206W (Media Across Cultures): Introduces a discursive framework for media, design and cultural interfaces.
+Prerequisite: IAT 103W with a minimum grade of C-.
+
+IAT 233 (Spatial Design): Designing and understanding spaces used by people. The iterative process of making and criticizing, experiencing and analyzing spatial form. 
+Prerequisite: IAT 102 and IAT 106, both with a minimum grade of C-.
+
+IAT 235 (Information Design): Introduces theory and practice of designing visual representations of information. 
+Prerequisite: IAT 102 with a minimum grade of C-.
+
+IAT 238 (Foundations for Designing Interactions): The course integrates visual communication and interaction design alongside developing skills in design process such as prototyping, ideation and iteration. 
+Prerequisite: IAT 102 with a minimum grade of C-.
+
+IAT 265 (Multimedia Programming for Art and Design): Using cases from topics such as animation, cinema, music and design, this course introduces a variety of programming tools and techniques. 
+Prerequisite: IAT 167 with a minimum grade of C- and one of MATH 130, MACM 101, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
+
+IAT 267 (Introduction to Technological Systems): Introduction to the core technologies and systems used in media-rich interactive environments, including computer hardware, operating systems, input and output technologies.
+Prerequisite: IAT 167 with a minimum grade of C- and one of MACM 101, MATH 130, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
+
+IAT 271 (Co-op Practicum I): First term of work experience for students in the SIAT Co-operative Education Program. 
+Prerequisite: IAT 271 (or WKTM 100). Students with credit for WKTM 200 may not take this course for further credit.

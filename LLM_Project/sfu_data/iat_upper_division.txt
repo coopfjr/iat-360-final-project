@@ -1,0 +1,40 @@
+SFU SIAT Upper Division Course Offerings and Prerequisites (300 and 400 Level)
+
+IAT 309W (Writing Methods for Research): Develops critical thinking and writing strategies adaptable to professional communications in design, media arts and technology. 
+Prerequisite: IAT 206W with a minimum grade of C- and completion of 48 units.
+
+IAT 312 (Foundations of Game Design): Explores game design principles and methodologies.
+Prerequisite: Minimum of 24 units, including one of MATH 130, MACM 101, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
+
+IAT 313 (Narrative and New Media): Explores interactive narrative creation across digital platforms.
+Prerequisite: Completion of 48 units.
+
+IAT 333 (Interaction Design Methods): Focuses on advanced user research and evaluation methods for interaction design.
+Prerequisite: IAT 238 and IAT 201, both with a minimum grade of C-.
+
+IAT 334 (Interface Design): Advanced interface design principles for complex systems.
+Prerequisite: IAT 238 with a minimum grade of C-.
+
+IAT 340 (Sound Design): Principles and techniques of sound design for media and interactive systems.
+Prerequisite: IAT 202 or IAT 265, with a minimum grade of C-.
+
+IAT 343 (Animation): Theory and practice of 3D computer animation.
+Prerequisite: IAT 265 with a minimum grade of C- and completion of 48 units.
+
+IAT 344 (Moving Images): Advanced video production and post-production techniques.
+Prerequisite: IAT 202 with a minimum grade of C- and completion of 48 units.
+
+IAT 351 (Advanced Human-Computer Interaction): Advanced topics in HCI research and practice.
+Prerequisite: IAT 201 and IAT 238, both with a minimum grade of C-.
+
+IAT 355 (Introduction to Visual Analytics): Techniques for analyzing and visualizing complex data sets.
+Prerequisite: IAT 201 and IAT 235, both with a minimum grade of C- and completion of 48 units.
+
+IAT 386 (Directed Studies): Independent study project under the supervision of a faculty member.
+Prerequisite: Completion of 45 units, and permission of the instructor and of the school. No more than two directed studies may be used towards the IAT major requirements.
+
+IAT 410 (Advanced Game Design): Advanced game development, focusing on complex systems and mechanics.
+Prerequisite: IAT 312 with a minimum grade of C-.
+
+IAT 445 (Immersive Environments): Design and development of virtual reality and augmented reality systems.
+Prerequisite: IAT 343 or IAT 312, with a minimum grade of C-.

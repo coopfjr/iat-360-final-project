@@ -9,7 +9,9 @@ from langchain_classic.chains.combine_documents import create_stuff_documents_ch
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage
 
-def main():
+
+# Runs Terminal version unless web version is running (used for Streamlit web app)
+def main(web_mode=False):
     # 1. Database Initialization
     db_dir = "./chroma_db"
     data_dir = "./sfu_data"
@@ -26,11 +28,11 @@ def main():
         chunks = text_splitter.split_documents(documents)
         vector_store = Chroma.from_documents(chunks, embeddings, persist_directory=db_dir)
 
-    # 2. Connect to Local Llama 3.1
+    # Connect to Llama 3.1
     print("Connecting to Llama 3.1 model...")
     llm = ChatOllama(model="llama3.1")
 
-    # 3. Create the History-Aware Retriever
+    # Create the History-Aware Retriever
     contextualize_q_system_prompt = (
         "Given a chat history and the latest user question "
         "which might reference context in the chat history, "
@@ -48,7 +50,7 @@ def main():
         llm, vector_store.as_retriever(search_kwargs={"k": 4}), contextualize_q_prompt
     )
 
-    # 4. Define System Prompt with Strict Guardrails & Disclaimers
+    # Define System Prompt with Strict Guardrails & Disclaimer
     system_prompt = (
         "You are the official SFU SIAT Course Planning AI Assistant.\n"
         "Your task is to actively assist SFU students with course selection, degree requirements, prerequisites, and academic regulations based STRICTLY on the provided context.\n\n"
@@ -67,11 +69,15 @@ def main():
         ("human", "{input}"),
     ])
 
-    # 5. Assemble the Final Chain
+    # Final Chain
     question_answer_chain = create_stuff_documents_chain(llm, prompt)
     qa_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
 
-    # 6. Interactive Welcome Banner & Capabilities
+    # If Streamlit is using the chatbot, return the RAG chain and skip the terminal interface
+    if web_mode:
+        return qa_chain
+
+    # Interactive Welcome Banner & Capabilities
     print("\n" + "=" * 60)
     print(" 🎓 WELCOME TO THE SFU SIAT COURSE PLANNING ASSISTANT 🎓 ")
     print("=" * 60)
@@ -89,7 +95,7 @@ def main():
     # Chat history buffer
     chat_history = []
 
-    # 7. Interactive Prompt Loop
+    # Interactive Prompt Loop
     while True:
         try:
             query = input("\n[Student Query] > ")

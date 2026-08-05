@@ -6,3 +6,4 @@ langchain-ollama
 langchain-classic
 langchain-core
 unstructured
+streamlit

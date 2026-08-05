@@ -9,7 +9,9 @@ from langchain_classic.chains.combine_documents import create_stuff_documents_ch
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage
 
-def main():
+
+# Runs Terminal version unless web version is running (used for Streamlit web app)
+def main(web_mode=False):
     # 1. Database Initialization
     db_dir = "./chroma_db"
     data_dir = "./sfu_data"
@@ -70,6 +72,10 @@ def main():
     # 5. Assemble the Final Chain
     question_answer_chain = create_stuff_documents_chain(llm, prompt)
     qa_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
+
+    # If Streamlit (Web UI version) is using the chatbot, return the RAG chain and skip the terminal interface
+    if web_mode:
+        return qa_chain
 
     # 6. Interactive Welcome Banner & Capabilities
     print("\n" + "=" * 60)

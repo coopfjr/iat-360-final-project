@@ -1,40 +1,106 @@
 SFU SIAT Upper Division Course Offerings and Prerequisites (300 and 400 Level)
 
-IAT 309W (Writing Methods for Research): Develops critical thinking and writing strategies adaptable to professional communications in design, media arts and technology. 
+IAT 309W (Writing Methods for Research): Develops critical thinking and writing strategies adaptable to professional communications in design, media arts and technology. Fulfills the upper-division Writing (W) requirement.
 Prerequisite: IAT 206W with a minimum grade of C- and completion of 48 units.
 
-IAT 312 (Foundations of Game Design): Explores game design principles and methodologies.
-Prerequisite: Minimum of 24 units, including one of MATH 130, MACM 101, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
+IAT 312 (Foundations of Game Design): This course examines the discipline of game design through three analytical frameworks: Games as Rules (formal systems), Games as Play (experiential systems), and Games as Culture (social systems).
+Prerequisite: Completion of 48 units, including IAT 265 with a minimum grade of C-.
 
-IAT 313 (Narrative and New Media): Explores interactive narrative creation across digital platforms.
+IAT 313 (Narrative and New Media): Explores narrative theory and practices for new media, focusing on interactive storytelling. 
+Prerequisite: Completion of 48 units, including IAT 210 or IAT 265 with a minimum grade of C-.
+
+IAT 320 (Body as Interface): Explores ideas of embodiment through physical computing supporting human relationships with technology. Students construct and analyze contemporary and historical models of bodily interaction through tangible, gestural and/or e-textile computational prototyping, understand physical practices of embodiment, and apply these concepts to representation, design, and the production of embodied interfaces through various. 
 Prerequisite: Completion of 48 units.
 
-IAT 333 (Interaction Design Methods): Focuses on advanced user research and evaluation methods for interaction design.
-Prerequisite: IAT 238 and IAT 201, both with a minimum grade of C-.
+IAT 333 (Interaction Design Methods): Focuses on user-centered design methods, including ethnographic research, persona development, and usability testing.
+Prerequisite: Completion of 48 units, including IAT 238 with a minimum grade of C- or IAT 235 with a minimum grade of C- completed before the Spring 2025 term.
 
-IAT 334 (Interface Design): Advanced interface design principles for complex systems.
-Prerequisite: IAT 238 with a minimum grade of C-.
+IAT 334 (Interface Design): Provides an introduction to the art and design of human-computer interfaces, design methods, prototyping and evaluation of user interfaces. Examines issues of interactivity and its relation to human contexts and technological systems.
+Prerequisite: Completion of 48 units, including IAT 235 with a minimum grade of C-.
+
+IAT 336 (Materials in Practice): Introduces material properties and performance in the context of physical and digital interactive artifacts. Develops practices of material selection and use, including 3D printing and digital fabrication methods.
+Prerequisite: Completion of 48 units, including IAT 102 and IAT 106, both with a minimum grade of C-.
+
+IAT 338 (Interactive Objects and Environments): Explores the design of physical interactive objects and embedded computing environments.
+Prerequisite: Completion of 75 units, including IAT 309W and IAT 333, with a minimum grade of C-.
+
+IAT 339 (Web Design and Development): Advanced theory and implementation of web media from a design perspective. Students will design and develop web media that focuses on communication and design issues for a variety of users.
+Prerequisite: IAT 235 and IAT 265, with a minimum grade of C-.
 
 IAT 340 (Sound Design): Principles and techniques of sound design for media and interactive systems.
-Prerequisite: IAT 202 or IAT 265, with a minimum grade of C-.
+Prerequisite: Completion of 24 units. Recommended: IAT 202.
 
-IAT 343 (Animation): Theory and practice of 3D computer animation.
-Prerequisite: IAT 265 with a minimum grade of C- and completion of 48 units.
+IAT 343 (Animation): Theory and practice of 3D computer animation. Introduces the principles of 3D computer animation, including modeling, rigging, and keyframing.
+Prerequisite: Minimum of 24 units, including MATH 130 or MACM 101 or MATH 150 or MATH 151 or MATH 154 or MATH 157, with a minimum grade of C-.
 
-IAT 344 (Moving Images): Advanced video production and post-production techniques.
-Prerequisite: IAT 202 with a minimum grade of C- and completion of 48 units.
+IAT 344 (Moving Images): Reviews and consolidates the fundamentals of digital video production, including camera and composition skills, the role of sound, lighting, and continuity and montage editing.
+Prerequisite: Minimum of 48 units and IAT 202 with a minimum grade of C-.
 
-IAT 351 (Advanced Human-Computer Interaction): Advanced topics in HCI research and practice.
-Prerequisite: IAT 201 and IAT 238, both with a minimum grade of C-.
+IAT 351 (Advanced Human-Computer Interaction): Focuses on advanced human-computer interaction concepts, building upon foundations in cognition and interface design.
+Prerequisite: Completion of 48 units, including IAT 201 with a minimum grade of C-.
+
+IAT 352 (Internet Computing Technologies): XML technologies, databases and data mining are reviewed as means of storing and extracting knowledge. Server-client and service oriented architectures are examined from the perspective of building interactive systems. 
+Prerequisite: Completion of 48 units, including IAT 235, and either IAT 265 or other approved second year programming course.
 
 IAT 355 (Introduction to Visual Analytics): Techniques for analyzing and visualizing complex data sets.
-Prerequisite: IAT 201 and IAT 235, both with a minimum grade of C- and completion of 48 units.
+Prerequisite: IAT 201 and either IAT 265 or CMPT 225, all with a minimum grade of C-.
+
+IAT 359 (Mobile Computing): An introduction to mobile computing and the development of applications for mobile environments. Topics covered include mobile development environments, user interfaces, and user experience.
+Prerequisite: Completion of 48 units, including IAT 265 with a minimum grade of C-. Students with credit for CMPT 362 may not take this course for further credit.
+
+IAT 360 (Exploring Artificial Intelligence: Its Use, Concepts, and Impact): Designed to provide a comprehensive and accessible introduction to the world of artificial intelligence that will empower the students to navigate the AI-driven future. Students will explore fundamental AI concepts, including machine learning, neural networks, natural language processing, and computer vision; discover real-world applications, ethical considerations, and the societal impact of AI.
+Prerequisite: CMPT 120, IAT 265, and IAT 267, all with a minimum grade of C-.
+
+IAT 380 (Special Topics in Interactive Arts and Technology (Arts)): Specific details of courses to be offered will be published prior to registration each semester. This course can be repeated for credit up to a maximum of three times, if topic studied is different. 
+Prerequisite: Completion of 45 units.
+
+IAT 381 (Special Topics in Interactive Arts and Technology (Science)): Special topics in Interactive Arts and Technology. Prerequisite: Completion of 45 units.
 
 IAT 386 (Directed Studies): Independent study project under the supervision of a faculty member.
 Prerequisite: Completion of 45 units, and permission of the instructor and of the school. No more than two directed studies may be used towards the IAT major requirements.
 
-IAT 410 (Advanced Game Design): Advanced game development, focusing on complex systems and mechanics.
-Prerequisite: IAT 312 with a minimum grade of C-.
+IAT 410 (Advanced Game Design): An advanced project-based course where students work in teams to design and develop a fully playable digital game.
+Prerequisite: Completion of 60 units, including IAT 265 and IAT 312, with a minimum grade of C-.
 
-IAT 445 (Immersive Environments): Design and development of virtual reality and augmented reality systems.
-Prerequisite: IAT 343 or IAT 312, with a minimum grade of C-.
+IAT 431 (Speculative Design): Provides students with the opportunity to experiment with designing in various non-normative frameworks provided by cultural studies, critical theory and phenomenology. 
+Prerequisite: Completion of 72 units, including IAT 333 or IAT 334, with a minimum grade of C-.
+
+IAT 432 (Design Evaluation): Examines evaluation concepts and methods for designers. Introduces a range of evaluation approaches including informal methods, controlled experiments, and usability studies.
+Prerequisite: Completion of 72 units, including IAT 333 with a minimum grade of C-.
+
+IAT 437 (Representation and Fabrication): Introduces computer-based tools for representing and fabricating designs. Covers the representation of work within a design process, the use of visualization techniques, and the use of digital fabrication technology (such as laser cutters and 3D printers).
+Prerequisite: Completion of 60 units and IAT 336 with a minimum grade of C-.
+
+IAT 438 (User Experience Design): Advanced level course that examines design practice for Interaction and User Experience Designers. Students apply professional industry standards to related strategies from Graphic Design, Interaction Design, and UI Design.
+Prerequisite: Completion of 72 units, including IAT 338 or permission of the instructor.
+
+IAT 443 (Senior Project in Creative Media): A senior level investigation of skills and knowledge learned across creative media concentration. Examines recombinant, computational and compositional structures related to image, sound, video and/or motion capture.
+Prerequisite: Completion of 60 units, including IAT 313, IAT 340, and IAT 344, with a minimum grade of C-.
+
+IAT 445 (Immersive Environments): Explores the design and development of virtual reality (VR) and augmented reality (AR) experiences.
+Prerequisite: Completion of 60 units, including IAT 343 with a minimum grade of C-.
+
+IAT 452 (Developing Evidence-Based Interfaces): Introduces methodological approaches to theory-informed and evidence-driven design of multimodal interactive interfaces for software systems to be employed in dynamic environments.
+Prerequisite: Completion of 60 units, including IAT 351 with a minimum grade of C-.
+
+IAT 455 (Computational Media): The representation of media is introduced: specifically one dimensional (sound), two dimensional (images) and three dimensional (moving images). This course focuses on techniques and methods for creating digital video special effects.
+Prerequisite: Completion of 60 units, including IAT 265 and MACM 101, with a minimum grade of C-.
+
+IAT 480 (Special Topics in Interactive Arts and Technology (Arts)): Specific details of courses to be offered will be published prior to enrollment each term. This course can be repeated for credit up to a maximum of three times, if topic studied is different. 
+Prerequisite: Completion of 60 units.
+
+IAT 481 (Special Topics in Interactive Arts and Technology (Science)): Special topics in Interactive Arts and Technology. Prerequisite: Completion of 60 units.
+
+IAT 486 (Directed Studies): Independent reading and research topics selected in consultation with individual members of the SIAT faculty. This course can be repeated for credit up to a maximum of three times, if topic studied is different. No more than two directed studies may be used towards the IAT major requirements. 
+Prerequisite: Completion of 69 units, and permission of the instructor and of the school are required.
+
+IAT 487 (Directed Studies): Independent reading and research topics. Prerequisite: Completion of 60 units.
+
+IAT 488 (Directed Studies): Independent reading and research topics selected in consultation with individual members of the IAT faculty. This course can be repeated for credit up to a maximum of three times, if topic studied is different. 
+Prerequisite: Completion of 69 units. No more than six units of Directed Studies may be taken, and permission of the instructor and school are required.
+
+IAT 490 (Honours Project I): Research work related to a particular topic in the field of Interactive Arts and Technology. Students will undertake an individual project under supervision of a SIAT faculty member. 
+Prerequisite: Students accepted into Honours Program and project accepted by a supervisor.
+
+IAT 491 (Honours Project II): Research work related to a particular topic in the field of Interactive Arts and Technology. Students will undertake an individual project under supervision of a SIAT faculty member. 
+Prerequisite: Students accepted into Honours Program and project accepted by a supervisor.

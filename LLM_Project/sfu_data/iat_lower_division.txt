@@ -1,18 +1,33 @@
 SFU SIAT Lower Division Course Offerings and Prerequisites
 
-IAT 100 (Digital Image Design): Introduces the theory and hands-on practice of art and design in digital media. This course teaches core fundamental principles in 2D visual design, sequential and animation design.
+IAT 100 (Digital Image Design): Introduces the theory and hands-on practice of art and design in digital media. This course teaches core fundamental principles in 2D visual design, sequential and animation design. Fulfills the Breadth-Humanities (B-Hum) requirement.
 
-IAT 167 (Digital Games): Introduces game genres, structures, and programming methods basic to developing games. 
+IAT 102 (Graphic Design): Introduction to fundamental design principles for visual communication. Students explore principles of form, such as structure, composition, hierarchy, color, space, typography, and legibility.
+Prerequisite: None. Fulfills the Breadth-Humanities (B-Hum) requirement.
+
+IAT 103W (Design Communication and Collaboration): Introduces a discursive framework for media, design and cultural interfaces enabling students to interpret, negotiate, and engage with new media with an awareness of the significance of cultural and contextual difference. Fulfills the lower-division Writing (W) requirement.
+Prerequisite: None.
+
+IAT 106 (Spatial Thinking and Communicating): Introduces foundational concepts of 3D spatial thinking, geometry, and representation used in design and interactive environments.
+Prerequisite: None.
+
+IAT 110 (Visual Communication Design): Visual communication for art and design in digital media. Students learn the fundamentals of digital raster and vector image creation. Design principles such as form, typography and colour theory as they apply to digital media will be taught. Students will have core projects in digital photography, magazine layout and kinetic typography. Primarily for non-SIAT majors; while SIAT majors may take the course, it does not count for credit for SIAT degree requirements. Fulfills the Breadth-Humanities (B-Hum) requirement.
+Prerequisite: None.
+
+IAT 167 (Digital Games): Introduces game genres, structures, and programming methods basic to developing games.
 Prerequisite: CMPT 120 (or equivalent first year programming course such as CMPT 102, 125, 126, 128, 130, 135, or 166) with a minimum grade of C-. Students who have obtained credit for, or are currently enrolled in, a CMPT course at the 200-division or higher, or IAT 265 or 267 may not complete this course for credit.
 
 IAT 201 (Human-Computer Interaction and Cognition): Introduces topics in human perception, cognition and embodied action as a foundation of design for human use.
 Prerequisite: Completion of at least one lower division "W" (Writing) course.
 
 IAT 202 (Visual Storytelling for Content Creators): Examines the principles of effective storytelling through visual media, with an emphasis on social media platforms and short-form content. 
-Prerequisite: IAT 100 with a minimum grade of C-.
+Prerequisite: IAT 100 with a minimum grade of C-. Fulfills the Breadth-Humanities (B-Hum) requirement.
 
-IAT 206W (Media Across Cultures): Introduces a discursive framework for media, design and cultural interfaces.
+IAT 206W (Media Across Cultures): Introduces a discursive framework for media, design and cultural interfaces. Fulfills the lower-division Writing (W) requirement.
 Prerequisite: IAT 103W with a minimum grade of C-.
+
+IAT 210 (Introduction to Game Studies: Theory and Design): Reviews the history of games, tracing the evolution of game design from board and card games through the latest electronic products. 
+Prerequisite: Completion of 24 units. Fulfills the Breadth-Humanities/Social Sciences (B-Hum/Soc) requirement.
 
 IAT 233 (Spatial Design): Designing and understanding spaces used by people. The iterative process of making and criticizing, experiencing and analyzing spatial form. 
 Prerequisite: IAT 102 and IAT 106, both with a minimum grade of C-.
@@ -24,10 +39,23 @@ IAT 238 (Foundations for Designing Interactions): The course integrates visual c
 Prerequisite: IAT 102 with a minimum grade of C-.
 
 IAT 265 (Multimedia Programming for Art and Design): Using cases from topics such as animation, cinema, music and design, this course introduces a variety of programming tools and techniques. 
-Prerequisite: IAT 167 with a minimum grade of C- and one of MATH 130, MACM 101, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
+Prerequisite: IAT 167 with a minimum grade of C- and one of MATH 130, MACM 101, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-. Fulfills the Quantitative (Q) requirement.
 
 IAT 267 (Introduction to Technological Systems): Introduction to the core technologies and systems used in media-rich interactive environments, including computer hardware, operating systems, input and output technologies.
-Prerequisite: IAT 167 with a minimum grade of C- and one of MACM 101, MATH 130, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
+Prerequisite: IAT 167 with a minimum grade of C- and one of MACM 101, MATH 130, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-. Fulfills the Quantitative (Q) requirement.
 
 IAT 271 (Co-op Practicum I): First term of work experience for students in the SIAT Co-operative Education Program. 
-Prerequisite: IAT 271 (or WKTM 100). Students with credit for WKTM 200 may not take this course for further credit.
+Prerequisite: Admission to the Co-op program. Students with credit for WKTM 100 may not take this course for further credit.
+
+IAT 222 (Interactive Arts): Introduces key concepts within contemporary digital art practices. Issues surrounding digital art will be explored through readings, the study of artworks, and the creation of their own artistic projects.
+Prerequisite: None. Fulfills the Breadth-Humanities (B-Hum) requirement.
+
+IAT 244 (Digital, Virtual and AI Photography): An introduction to digital photography using mobile technologies, free software and online platforms. The focus of the course is on developing a final portfolio that demonstrates a wide range of approaches, including the use of generative AI platforms and real-time rendered virtual image production.
+Prerequisite: None. Fulfills the Breadth-Humanities (B-Hum) requirement.
+
+WKTM 100 (Work Term I): First term of work experience in the Co-operative Education Program.
+Prerequisite: 30 units and permission of the Co-op Coordinator.
+
+WKTM 200 (Work Term II): Second term of work experience in the Co-operative Education Program.
+Prerequisite: WKTM 100 and permission of the Co-op Coordinator.
+

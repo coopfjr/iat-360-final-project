@@ -1,6 +1,0 @@
-SIAT Upper Division Course Prerequisites
-Interactive arts and technology course entry requires a minimum grade of C- in all prerequisite courses. 
-IAT 309W (Writing Methods for Research): Prerequisite is IAT 206W with a minimum grade of C- and completion of 48 units.
-IAT 312 (Foundations of Game Design): Prerequisite is a minimum of 24 units, including one of MATH 130, MACM 101, MATH 150, MATH 151, MATH 154, or MATH 157, with a minimum grade of C-.
-IAT 338 (Interactive Objects and Environments): Prerequisite is completion of 75 units, including IAT 309W and IAT 333, with a minimum grade of C-.
-IAT 386 (Directed Studies): Prerequisite is completion of 45 units, plus permission of the instructor and the school. No more than two directed studies may be used towards the IAT major requirements.

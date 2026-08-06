@@ -1,8 +1,17 @@
-SIAT Concentrations (Effective Fall 2024 onward)
-A concentration is an area of specialization that approved SIAT majors can pursue. Students may complete more than one concentration, or choose to complete none. 
-The available concentrations and their required courses are:
-Media Arts Concentration: Must complete IAT 313, IAT 340, IAT 344, and IAT 443.
-Design Concentration: Must complete six of the following: IAT 333, IAT 334, IAT 336, IAT 339, IAT 431, IAT 432, IAT 437, or IAT 438.
-Interactive Systems Concentration: Must complete six of the following: IAT 351, IAT 352, IAT 355, IAT 359, IAT 410, IAT 452, or IAT 455.
-Game Design Concentration (Historical): Includes IAT 312, IAT 343, IAT 410, and IAT 445.
-Note: As of Fall 2024, the specific Design, Media Arts, and Interactive Systems concentrations are no longer available to newly admitted students, but existing students may still complete them.
+SIAT Concentrations (Updated for 2026 Academic Calendar)
+A concentration is an area of specialization that approved SIAT majors can pursue within their Bachelor's degree. Students may complete more than one concentration, or choose to complete none.
+
+Current Active Concentrations (Effective Fall 2024 and Fall 2025 onward):
+* AI and Data Science for Human-Centred Systems: Must complete IAT 355, IAT 360, IAT 460, and IAT 461.
+* Creative Media: Must complete IAT 313, IAT 340, IAT 344, and IAT 443.
+* Critical Making: Must complete IAT 336, IAT 320, and IAT 420.
+* Design and Development for Web & Mobile: Must complete IAT 339, IAT 359, and IAT 459.
+* Designing Interactions: Must complete IAT 333, IAT 431, and IAT 438.
+* Evidence-Based Interactive Systems: Must complete IAT 334, IAT 351, IAT 432, and IAT 452.
+* Extended Reality & Game Design: Must complete IAT 312, IAT 343, IAT 410, and IAT 445.
+
+Legacy / Historical Concentrations (Phased out for new admissions as of Fall 2024, but existing students may still complete them):
+* Design Concentration (Historical): Must complete six of the following: IAT 333, IAT 334, IAT 336, IAT 339, IAT 431, IAT 432, IAT 437, or IAT 438.
+* Media Arts Concentration (Historical): Must complete IAT 313, IAT 340, IAT 344, and IAT 443.
+* Interactive Systems Concentration (Historical): Must complete six of the following: IAT 351, IAT 352, IAT 355, IAT 359, IAT 410, IAT 452, or IAT 455.
+* Game Design Concentration (Historical): Includes IAT 312, IAT 343, IAT 410, and IAT 445.

@@ -1,13 +1,52 @@
 SFU SIAT Graduate Course Offerings (800 Level)
 The School of Interactive Arts and Technology offers graduate-level instruction for MA, MSc, and PhD programs.
 
+The School of Interactive Arts and Technology offers graduate-level instruction for MA, MSc, and PhD programs[cite: 23].
+
+IAT 801: Qualitative Research Methods and Design. An introduction to qualitative research practices. Covers structures of research that are prevalent across and at the intersection of the areas of art, design, media, human-computer interaction and information studies, introduces research methodologies and tools, and teaches methods for interdisciplinary work.
+Prerequisite: SIAT Graduate Student.
+
+IAT 802: Quantitative Research Methods and Design. Introduction to the research enterprise from a quantitative perspective. It covers structures of research that are prevalent across fields, introduces research methodologies and tools, teaches methods for interdisciplinary work and fosters a critical discourse around differences among research in different areas.
+Prerequisite: SIAT Graduate Student.
+
 IAT 803: Science, Technology & Culture. Explores the cultural and social implications of scientific and technological developments.
+Prerequisite: SIAT Graduate Student.
+
 IAT 804: Foundations of Research Design for Human-Centred Design. Introduces foundational research methods and methodologies for human-centred design.
+Prerequisite: SIAT Graduate Student.
+
+IAT 805: Research Colloquium. Through an interdisciplinary speaker series, presents research topics relevant to the SIAT graduate program. Engages students in discussion and debate on the utility, results and methods of research. Graded on a satisfactory/unsatisfactory basis.
+Prerequisite: SIAT Graduate Student.
+
 IAT 806: Interdisciplinary Design Approaches to Computing. Investigates how interdisciplinary design practices intersect with computational systems.
+Prerequisite: SIAT Graduate Student.
+
 IAT 810: New Media. Explores advanced concepts in new media theory and practice.
+Prerequisite: SIAT Graduate Student.
+
 IAT 811: Computational Poetics. An investigation of computation as an expressive medium.
+Prerequisite: SIAT Graduate Student.
+
 IAT 812: Cognition, Learning and Educational Technology. Examines theories of cognition and learning as they apply to the design of educational technologies.
+Prerequisite: SIAT Graduate Student.
+
 IAT 813: Artificial Intelligence in Arts and Design. Explores the application of AI techniques in creative and design contexts.
+Prerequisite: SIAT Graduate Student.
+
 IAT 814: Knowledge, Visualization and Communication. Focuses on advanced techniques for visualizing and communicating complex knowledge.
+Prerequisite: SIAT Graduate Student.
+
 IAT 832: Exploring Interactivity. An in-depth exploration of interactive systems and user experiences.
+Prerequisite: SIAT Graduate Student.
+
 IAT 842: Theory and Design of Games. Advanced study of game design theories, mechanics, and cultural impact.
+Prerequisite: SIAT Graduate Student.
+
+IAT 801: Qualitative Research Methods and Design. An introduction to qualitative research practices. Covers structures of research that are prevalent across and at the intersection of the areas of art, design, media, human-computer interaction and information studies, introduces research methodologies and tools, and teaches methods for interdisciplinary work.
+Prerequisite: SIAT Graduate Student.
+
+IAT 802: Quantitative Research Methods and Design. Introduction to the research enterprise from a quantitative perspective. It covers structures of research that are prevalent across fields, introduces research methodologies and tools, teaches methods for interdisciplinary work and fosters a critical discourse around differences among research in different areas.
+Prerequisite: SIAT Graduate Student.
+
+IAT 805: Research Colloquium. Through an interdisciplinary speaker series, presents research topics relevant to the SIAT graduate program. Engages students in discussion and debate on the utility, results and methods of research. Graded on a satisfactory/unsatisfactory basis.
+Prerequisite: Enrollment in the SIAT graduate program.
